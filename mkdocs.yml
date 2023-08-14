@@ -49,5 +49,4 @@ copyright: |
 
 plugins:
     - search: {}
-    - encryptcontent:
-        global_password: 'iheartrogue1'
+    
