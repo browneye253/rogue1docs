@@ -1,0 +1,4 @@
+# Emby Configuration
+
+## Logging In
+
