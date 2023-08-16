@@ -1,14 +1,23 @@
 site_name: RogueOne Docs
+site_url: https://docs.rogueonemedia.com/
+copyright: |
+  &copy; 2023 RogueOne
 
 theme:
   name: material
+  icon:
+    logo: fontawesome/brands/rebel
   features:
     - navigation.tabs
     - navigation.sections
-    - toc.integrate
+    #- toc.integrate
+    - toc.follow
+    - navigation.footer
+    - navigation.instant
     - navigation.top
     - search.suggest
     - search.highlight
+    - search.share
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
@@ -44,9 +53,16 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 
-copyright: |
-  &copy; 2023 RogueOne
-
 plugins:
-    - search: {}
+  - search:
+      lang: en
+  - glightbox: {}
     
+nav:
+  - Home: index.md
+  - Getting Started: 
+    - Emby: user-guide/emby.md
+    - Ombi: user-guide/ombi.md
+  - Reference:
+    - Internet Quality: reference/internet-quality.md
+    - Subtitles: reference/subtitles.md

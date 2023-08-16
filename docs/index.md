@@ -1,5 +1,3 @@
 # Homepage
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## 
+This site is a place to easily reference some how-to and best practices for using the various applications.

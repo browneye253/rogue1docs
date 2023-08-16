@@ -10,4 +10,6 @@ Some example text
 
 :fontawesome-brands-twitter:{ .twitter }
 
+:fontawesome-brands-rebel:
+
 :octicons-heart-fill-24:{ .heart }
