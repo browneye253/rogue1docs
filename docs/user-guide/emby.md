@@ -2,17 +2,15 @@
 
 ## Emby Connect Registration
 
-The quickest way to get logged in on any of your devices is to use Emby Connect.  Emby Connect is the same method you use to login to your Netflix, Hulu or Disney+ accounts.
+To get setup with an Emby Connect account see the following page. 
 
-You'll need to create an Emby Connect account by going to the following page and clicking on Sign Up: [https://emby.media/pin.html](https://emby.media/pin.html){target="_blank"}
-
-On the sign up page fill in the form with your information.  We recommend that your display name not contain spaces.  This is basically your username.  Be sure to save these details somewhere because you'll need them everytime you want to login to a new device.
-
-![Emby Sign Up](../assets/images/emby_signup.png){width="300"}
+[Emby Connect](../reference/emby-connect.md)
 
 ## Logging Into Emby From Client Devices
 
 How to login on Apple TV, Shield TV, Roku, FireTV, etc.
+
+[Emby Connect Sign In](../reference/emby-connect.md/#sign-in-on-your-devices)
 
 ## Emby Client Settings
 
@@ -38,7 +36,7 @@ This allows you to adjust what sections appear on your Emby home screen as well 
 #### Video
 
 - **Home network quality** Set to _Auto_
-- **Internet quality** [Determine Your Internet Quality](../reference/internet-quality.md)
+- **Internet quality or Max Bitrate** [Determine Your Internet Quality](../reference/internet-quality.md)
 - **Chromecast streaming quality** Set to _Auto_
 
 #### Advanced
@@ -64,3 +62,7 @@ This allows you to adjust what sections appear on your Emby home screen as well 
 #### Subtitle Appearance
 
 These settings are complete user preference.  You can adjust them and see the example change as you make edits.  
+
+## Stats for Nerds
+
+Enabling this during playback will show you information about the file you're playing.  It will also show you if the server is currently transcoding that file before streaming it.
