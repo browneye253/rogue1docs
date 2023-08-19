@@ -2,9 +2,18 @@
 
 ## Emby Connect Registration
 
-To get setup with an Emby Connect account see the following page. 
+To get setup with an Emby Connect account see the following page.
 
 [Emby Connect](../reference/emby-connect.md)
+
+## Download Emby Apps
+
+You'll need to install the Emby app on any device you plan on using.  Emby should be available in the app store of your device.  If you can't find  
+it let me know and I'll double check if it's available for that device.
+
+You can view a list of client devices that are currently supported at the bottom of this page.
+
+[Emby Devices](https://emby.media/download.html){target="_blank"}
 
 ## Logging Into Emby From Client Devices
 
