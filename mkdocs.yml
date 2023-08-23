@@ -63,6 +63,7 @@ nav:
   - Getting Started: 
     - Emby: user-guide/emby.md
     - Ombi: user-guide/ombi.md
+    - Send to Kindle: user-guide/send-to-kindle.md
   - Reference:
     - Internet Quality: reference/internet-quality.md
     - Subtitles: reference/subtitles.md
