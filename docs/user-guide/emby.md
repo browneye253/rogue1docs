@@ -61,7 +61,6 @@ This allows you to adjust what sections appear on your Emby home screen as well 
 - **Enable 'Are you still watching?' prompt** _Checked_
 - **Display rating information on video playback start** _Checked_ or your preference
 
-
 ### Subtitles
 
 - **Preferred subtitle language** Set this to _English_
